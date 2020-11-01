@@ -22,7 +22,7 @@
 - High pass mask
 - Zooming
 
-## Part 2 : (Advanced IP)
+## Part 2 : (Advanced IP) (Will be uploaded after 5th Nov)
 
 ### 6) [7_IIVP](https://github.com/XXDIL/Image-and-Video-Processing/tree/master/7_IIVP) : 
 ### 7) [8_IIVP](https://github.com/XXDIL/Image-and-Video-Processing/tree/master/8_IIVP) : 
