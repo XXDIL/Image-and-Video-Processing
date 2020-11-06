@@ -22,10 +22,29 @@
 - High pass mask
 - Zooming
 
-## Part 2 : (Advanced IP) (Will be uploaded after 5th Nov)
+## Part 2 : (Advanced IP) (Will be uploaded after 7th Nov)
 
 ### 6) [7_IIVP](https://github.com/XXDIL/Image-and-Video-Processing/tree/master/7_IIVP) : 
+- Fourier Transform
+- Inverse Fourier Transform
+- Convolution
+- Sobel Filter
 ### 7) [8_IIVP](https://github.com/XXDIL/Image-and-Video-Processing/tree/master/8_IIVP) : 
+- Color Image Processing
+- Erosion
+- Dilation
+- Closing 
+- Opening
+- Hit or Miss
+- Thickening 
+- Thinning
+- Boundary Extraction
+- Adaptive Thresholding
 ### 8) [9_IIVP](https://github.com/XXDIL/Image-and-Video-Processing/tree/master/9_IIVP) : 
+- Huffman coding
+- LZW encoding
+- LZW decoding
+
+## Part 3 : (Video Processing) (Will be uploaded after 15th Nov)
 
 WIP
