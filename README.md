@@ -22,7 +22,7 @@
 - High pass mask
 - Zooming
 
-## Part 2 : (Advanced IP) (Will be uploaded after 7th Nov)
+## Part 2 : (Advanced IP)
 
 ### 6) [7_IIVP](https://github.com/XXDIL/Image-and-Video-Processing/tree/master/7_IIVP) : 
 - Fourier Transform
@@ -45,6 +45,4 @@
 - LZW encoding
 - LZW decoding
 
-## Part 3 : (Video Processing) (Will be uploaded after 15th Nov)
-
-WIP
+## Part 3 : (Video Processing) (Never Taught)
